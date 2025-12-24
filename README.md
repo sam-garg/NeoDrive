@@ -1,4 +1,4 @@
-# neoDrive 🚗💨
+# NeoDrive 🚗💨
 
 **neoDrive** is an innovative, AI-powered gesture control system designed to revolutionize the way we interact with driving simulations. By leveraging advanced computer vision techniques, it allows users to drive a virtual car using natural hand and foot movements, eliminating the need for physical hardware like steering wheels or pedals.
 
@@ -65,3 +65,4 @@
 This project is **NOT** open source. It is shared for demonstration and portfolio purposes only.
 
 If you use any part of this project in your own work, strictly for educational or non-commercial purposes, you **MUST** give explicit credit to the original team members. Commercial use is prohibited without permission.
+
